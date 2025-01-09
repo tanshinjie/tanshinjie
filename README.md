@@ -1,4 +1,4 @@
-![Hey there, I'm Shin Jie](https://media.licdn.com/dms/image/v2/C4D16AQHosRi6OvflKQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1656771830695?e=1735776000&v=beta&t=VZyumGsHXJIpQe8ocww14Yci859jnqDqBWudExynsDg)
+![Hey there, I'm Shin Jie](https://i.ibb.co/pzGskLJ/1656771830695.jpg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanshinjie&label=Profile%20views&color=0e75b6&style=flat)
 
