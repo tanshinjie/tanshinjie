@@ -16,8 +16,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Alternative Investment Platform @ Alta**
-- 🌱 I'm currently learning: **Chrome Extension Development**
+- 💼 I'm currently working on: **AI Agent @ Manus**
+- 🌱 I'm currently learning: **Korean**
 - 📂 Portfolio: **<a href="https://tanshinjie.com" target="_blank">tanshinjie.com</a>**
 
  **<h3 align="left">Skills</h3>**
