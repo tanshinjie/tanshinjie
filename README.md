@@ -18,7 +18,7 @@
 
 - 💼 I'm currently working on: **AI Agent @ Manus**
 - 🌱 I'm currently learning: **Korean**
-- 📂 Portfolio: **<a href="https://tanshinjie.com" target="_blank">tanshinjie.com</a>**
+- 📂 Personal Site: **<a href="https://tanshinjie.com" target="_blank">tanshinjie.com</a>**
 
  **<h3 align="left">Skills</h3>**
 
