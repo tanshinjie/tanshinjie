@@ -17,7 +17,6 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **AI Agent @ Manus**
-- 🌱 I'm currently learning: **Korean**
 - 📂 Personal Site: **<a href="https://tanshinjie.com" target="_blank">tanshinjie.com</a>**
 
  **<h3 align="left">Skills</h3>**
